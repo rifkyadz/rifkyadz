@@ -8,12 +8,12 @@
 # 🖐️ Hi, I'm Rifky Adzakie
 **Finance guy currently at MoF ID | Fiscal Strategy, Data Analytics & Public Governance**
 
-Welcome to my personal professional hub. This repository serves as a centralized showcase for my certifications, public sector reform project portfolio, research publications, and technical workflows.
+Welcome to my professional hub. This repository serves as a centralized showcase for my certifications, project portfolio, research publications, and technical workflows.
 
 ---
 
-## 📄 Executive Resume / CV
-- 🔒 **Official Resume:** [Request CV Access via Email](mailto:reach.rifkyadz@outlook.com?subject=Request%20CV%20%2F%20Resume%20Access%20-%20Rifky%20Adzakie&body=Hello%20Rifky,%0A%0AI%20am%20interested%20in%20reviewing%20your%20Executive%20Resume%20%2F%20CV.%20Could%20you%20please%20grant%20access%20to%20the%20document%3F%0A%0ABest%20regards,%0A[Your%20Name]%20/%20[Company%20or%20Institution])
+## 📄 Resume / CV
+- 🔒 **Latest Resume:** [Request CV Access via Email](mailto:reach.rifkyadz@outlook.com?subject=Request%20CV%20%2F%20Resume%20Access%20-%20Rifky%20Adzakie&body=Hello%20Rifky,%0A%0AI%20am%20interested%20in%20reviewing%20your%20Executive%20Resume%20%2F%20CV.%20Could%20you%20please%20grant%20access%20to%20the%20document%3F%0A%0ABest%20regards,%0A[Your%20Name]%20/%20[Company%20or%20Institution])
 
 ---
 
@@ -64,15 +64,15 @@ Welcome to my personal professional hub. This repository serves as a centralized
 
 ## <img src="https://flagcdn.com/24x18/id.png" width="24" alt="Indonesia Flag"> Indonesian
 
-# 🖐️ Hi, I'm Rifky Adzakie
+# 🖐️ Hi, aku Rifky Adzakie
 **Finance guy currently at MoF ID | Fiscal Strategy, Data Analytics & Public Governance**
 
-Selamat datang di repositori portofolio dan aset profesional saya. Repositori ini berfungsi sebagai pusat dokumentasi sertifikasi, portofolio proyek reformasi sektor publik, publikasi riset, serta alur kerja teknis saya.
+Selamat datang di repositori portofolio dan aset profesional saya. Repositori ini merupakan pusat dokumentasi sertifikasi, portofolio proyek, publikasi riset, serta workflow saya.
 
 ---
 
-## 📄 Executive Resume / CV
-- 🔒 **Official Resume:** [Request CV Access via Email](mailto:reach.rifkyadz@outlook.com?subject=Request%20CV%20%2F%20Resume%20Access%20-%20Rifky%20Adzakie&body=Halo%20Rifky,%0A%0ASaya%20tertarik%20untuk%20meninjau%20Executive%20Resume%20%2F%20CV%20Anda.%20Mohon%20bantuannya%20untuk%20memberikan%20akses%20berkas.%0A%0ATerima%20kasih,%0A[Nama%20Pengirim]%20/%20[Instansi%20atau%20Perusahaan])
+## 📄  Resume / CV
+- 🔒 **Resume Terbaru:** [Request CV Access via Email](mailto:reach.rifkyadz@outlook.com?subject=Request%20CV%20%2F%20Resume%20Access%20-%20Rifky%20Adzakie&body=Halo%20Rifky,%0A%0ASaya%20tertarik%20untuk%20meninjau%20Executive%20Resume%20%2F%20CV%20Anda.%20Mohon%20bantuannya%20untuk%20memberikan%20akses%20berkas.%0A%0ATerima%20kasih,%0A[Nama%20Pengirim]%20/%20[Instansi%20atau%20Perusahaan])
 
 ---
 
