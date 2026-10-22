@@ -3,7 +3,7 @@
 
 ---
 
-## 🇮🇩 Bahasa Indonesia
+## <img src="https://flagcdn.com/24x18/id.png" width="24" alt="Indonesia Flag"> Bahasa Indonesia
 
 # 🖐️ Halo, Saya Rifky Adzakie
 **Finance guy currently at MoF ID | Fiscal Strategy, Data Analytics & Public Governance**
@@ -47,7 +47,7 @@ Selamat datang di repositori portofolio dan aset profesional saya. Repositori in
 
 ---
 
-## 🇬🇧 English
+## <img src="https://flagcdn.com/24x18/gb.png" width="24" alt="UK Flag"> English
 
 # 🖐️ Hi, I'm Rifky Adzakie
 **Finance guy currently at MoF ID | Fiscal Strategy, Data Analytics & Public Governance**
