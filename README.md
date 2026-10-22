@@ -1,5 +1,5 @@
 <!-- Language Switcher -->
-🌐 **Language:** [<img src="https://flagcdn.com/24x18/gb.png" width="20" alt="UK Flag"> English](#-english) | [<img src="https://flagcdn.com/24x18/id.png" width="20" alt="Indonesia Flag"> Bahasa Indonesia](#-bahasa-indonesia)
+🌐 **Language:** [<img src="https://flagcdn.com/24x18/gb.png" width="20" alt="UK Flag"> English](#-english) | [<img src="https://flagcdn.com/24x18/id.png" width="20" alt="Indonesia Flag"> Indonesian](#-indonesian)
 
 ---
 
@@ -62,7 +62,7 @@ Welcome to my personal professional hub. This repository serves as a centralized
 
 ---
 
-## <img src="https://flagcdn.com/24x18/id.png" width="24" alt="Indonesia Flag"> Bahasa Indonesia
+## <img src="https://flagcdn.com/24x18/id.png" width="24" alt="Indonesia Flag"> Indonesia
 
 # 🖐️ Hi, I'm Rifky Adzakie
 **Finance guy currently at MoF ID | Fiscal Strategy, Data Analytics & Public Governance**
@@ -117,4 +117,4 @@ Selamat datang di repositori portofolio dan aset profesional saya. Repositori in
 ## 📬 Connect with Me
 - **Email:** reach.rifkyadz@outlook.com
 - **LinkedIn:** [linkedin.com/in/rifkyadzakie](https://linkedin.com/in/rifkyadzakie)
-- **GitHub:**
+- **GitHub:** [github.com/rifkyadz](https://github.com/rifkyadz)
